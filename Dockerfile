@@ -1,9 +1,4 @@
-# ----------------------------------
-# Fonix Core Dockerfile
-# Environment: Java
-# Minimum Panel Version: 0.6.0
-# ----------------------------------
-FROM openjdk:7-jdk-alpine
+FROM openjdk:8-jdk-alpine
 
 MAINTAINER Fonix Hardcastle, <me@fonix.online>
 
